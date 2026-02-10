@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Do you like me en was ik een goede chauffeur?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I don't like you, I love you (en ik was de best chauffeur)! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me en was ik de beste chauffeur die er was?",                          // For the love meter
